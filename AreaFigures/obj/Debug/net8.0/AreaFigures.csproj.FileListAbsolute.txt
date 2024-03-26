@@ -1,0 +1,11 @@
+D:\for_work\Vacancy\TestTask\AreaFigures\bin\Debug\net8.0\AreaFigures.deps.json
+D:\for_work\Vacancy\TestTask\AreaFigures\bin\Debug\net8.0\AreaFigures.dll
+D:\for_work\Vacancy\TestTask\AreaFigures\bin\Debug\net8.0\AreaFigures.pdb
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\AreaFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\AreaFigures.AssemblyInfoInputs.cache
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\AreaFigures.AssemblyInfo.cs
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\AreaFigures.csproj.CoreCompileInputs.cache
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\AreaFigures.dll
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\refint\AreaFigures.dll
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\AreaFigures.pdb
+D:\for_work\Vacancy\TestTask\AreaFigures\obj\Debug\net8.0\ref\AreaFigures.dll
